@@ -1,0 +1,14 @@
+25b10e8 (HEAD -> develop, origin/develop) HEAD@{0}: commit (merge): merge br styles in br develop
+7a7b3cc (origin/images, images) HEAD@{1}: merge images: Fast-forward
+6e3883b HEAD@{2}: checkout: moving from styles to develop
+887a51c (origin/styles, styles) HEAD@{3}: commit: add hello in index.html
+abaefcd HEAD@{4}: commit: add style in styles.css
+6e3883b HEAD@{5}: checkout: moving from develop to styles
+6e3883b HEAD@{6}: checkout: moving from images to develop
+7a7b3cc (origin/images, images) HEAD@{7}: commit: add sourse in index.html
+7bd6a2f HEAD@{8}: commit: add some image files
+6e3883b HEAD@{9}: checkout: moving from develop to images
+6e3883b HEAD@{10}: commit: add index.html file
+0eb8172 (origin/master, master) HEAD@{11}: checkout: moving from master to develop
+0eb8172 (origin/master, master) HEAD@{12}: commit (initial): init commit
+
